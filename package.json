@@ -2,6 +2,7 @@
   "name": "07-rutas",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://HeberRocket.github.io/react_router/build",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
